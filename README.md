@@ -12,10 +12,14 @@ The JavaBank Database is a PostgreSQL implementation for managing bank operation
 - **Transaction Management:** Record and track various types of transactions including deposits, withdrawals, transfers, and purchases.
 - **Recipient Management:** Maintain a list of common recipients for transactions.
 - **Purchase Tracking:** Log details of purchases made at various establishments.
+##Languanges##
 
-##Tools 
+-**MySql**
 
-- PostgreSQL - Relational Database Management System (RDBMS)
+
+##Tools##
+
+- **PostgreSQL** - Relational Database Management System (RDBMS)
 
 ## Database Schema
 
